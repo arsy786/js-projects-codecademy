@@ -16,3 +16,11 @@ This repo holds the source code from completing the Codecademy [Learn JavaScript
 
 ## Useful Links:
 [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+
+[JavaScript Crash Course For Beginners (YouTube/TraversyMedia)](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+[100+ JavaScript Concepts you Need to Know (YouTube/Fireship)](https://www.youtube.com/watch?v=lkIFF4maKMU)
+[JavaScript ES6 Modules (YouTube/WebDevSimplified)](https://www.youtube.com/watch?v=cRHQNNcYf6s)
+
+[100+ Web Development Things you Should Know (YouTube/Fireship)](https://www.youtube.com/watch?v=erEgovG9WBs)
+[HTML in 100 Seconds (YouTube/Fireship)](https://www.youtube.com/watch?v=ok-plXXHlWw)
+[CSS in 100 Seconds (YouTube/Fireship)](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
