@@ -27,6 +27,8 @@ This repo holds the source code from completing the Codecademy [Learn JavaScript
 <br>
 [100+ Web Development Things you Should Know (YouTube/Fireship)](https://www.youtube.com/watch?v=erEgovG9WBs)
 <br>
+[JavaScript in 100 Seconds (YouTube/Fireship)](https://www.youtube.com/watch?v=DHjqpvDnNGE)
+<br>
 [HTML in 100 Seconds (YouTube/Fireship)](https://www.youtube.com/watch?v=ok-plXXHlWw)
 <br>
 [CSS in 100 Seconds (YouTube/Fireship)](https://www.youtube.com/watch?v=OEV8gMkCHXQ)
