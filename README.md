@@ -22,8 +22,8 @@ This repo holds the source code from completing the Codecademy [Learn JavaScript
 <br>
 [JavaScript Crash Course For Beginners (YouTube/TraversyMedia)](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 <br>
-[100+ JavaScript Concepts you Need to Know (YouTube/Fireship)](https://www.youtube.com/watch?v=lkIFF4maKMU)
 <br>
+[100+ JavaScript Concepts you Need to Know (YouTube/Fireship)](https://www.youtube.com/watch?v=lkIFF4maKMU)
 <br>
 [100+ Web Development Things you Should Know (YouTube/Fireship)](https://www.youtube.com/watch?v=erEgovG9WBs)
 <br>
