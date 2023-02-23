@@ -13,7 +13,7 @@ This repo holds the source code from completing the Codecademy [Learn JavaScript
 - Iterators
 - Objects
 
-## Content in JavaScriptTutorials:
+## Content in JavaScriptTutorials Folder:
 
 | filename | description |
 | ------ | ------ |
