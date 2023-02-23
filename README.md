@@ -14,7 +14,6 @@ This repo holds the source code from completing the Codecademy [Learn JavaScript
 - Objects
 
 ## Content in JavaScriptTutorials:
-# JavaScriptTutorials
 
 | filename | description |
 | ------ | ------ |
